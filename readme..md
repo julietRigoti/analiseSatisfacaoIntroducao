@@ -1,0 +1,1 @@
+Este é projeto de iniciante para conhecer como funciona a analise de sentimento
