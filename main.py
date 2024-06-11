@@ -12,4 +12,3 @@ st.write("Analise de Satisfação do Cliente")
 user_input = st.text_input("Por favor, avalie o atendimento:")
 
 # 2°Fase: Criação do MP/NLP 
-print("teste")
